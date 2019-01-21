@@ -1,0 +1,70 @@
+/*
+Theme Name:     Dreyna
+Description:    
+Author:         sandor
+Template:       audioman
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+#page, .site-content-contain, .menu-inside-wrapper, #primary-search-wrapper .search-container, .audioman-mejs-container.mejs-container .mejs-controls .mejs-time-rail .mejs-time-total, .audioman-mejs-container.mejs-container .mejs-controls .mejs-time-rail .mejs-time-loaded, .audioman-mejs-container.mejs-container .mejs-controls .mejs-time-rail .mejs-time-float, .audioman-mejs-container.mejs-container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total, .woocommerce-account .woocommerce-MyAccount-navigation a{
+	background-color: #27213c
+}
+
+.sticky-post, .more-link .readmore:hover, .more-link .readmore:focus, .header-media .more-link .readmore, #feature-slider-section .more-link .readmore, #hero-section .more-link .readmore, .promotion-section .more-link .readmore, .posts-navigation a, #content #infinite-handle span button, #scrollup, .widget-area .catch-instagram-feed-gallery-widget-wrapper .button, .button, button, button[disabled]:hover, button[disabled]:focus, input[type="button"], input[type="button"][disabled]:hover, input[type="button"][disabled]:focus, input[type="reset"], input[type="reset"][disabled]:hover, input[type="reset"][disabled]:focus, input[type="submit"], input[type="submit"][disabled]:hover, input[type="submit"][disabled]:focus, #feature-slider-section .cycle-prev:hover, #feature-slider-section .cycle-prev:focus, #feature-slider-section .cycle-next:hover, #feature-slider-section .cycle-next:focus, #feature-slider-section .cycle-pager span:hover, #feature-slider-section .cycle-pager span:focus, #feature-slider-section .cycle-pager .cycle-pager-active, .widget_calendar tbody a, #gallery-section .gallery-item .gallery-icon a:after, #gallery-section .tiled-gallery .tiled-gallery-item a:after, .pagination .page-numbers.current, .woocommerce-pagination ul li span.current, .woocommerce-pagination ul li a:hover, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce button.button.alt, .woocommerce input.button, .woocommerce input.button.alt, .woocommerce .product-container .wc-forward, .demo_store .woocommerce-store-notice__dismiss-link, .woocommerce ul.products li.product .onsale, .woocommerce span.onsale, table.shop_table_responsive tr td.product-remove a, #gallery-section .entry-footer .edit-link a, .audioman-mejs-container.mejs-container .mejs-controls .mejs-playpause-button.mejs-button button {
+    background-image: linear-gradient(-180deg, #27213c  0%, #2e3532 100%);
+}
+
+
+button:hover, button:focus, .button:hover, .button:focus, input[type="button"]:hover, input[type="button"]:focus, input[type="reset"]:hover, input[type="reset"]:focus, input[type="submit"]:hover, input[type="submit"]:focus, .page-links a:hover, .page-links a:focus, .posts-navigation a:hover, .posts-navigation a:focus, .header-media .more-link .readmore:hover, .header-media .more-link .readmore:focus, #feature-slider-section .more-link .readmore:hover, #feature-slider-section .more-link .readmore:focus, #hero-section .more-link .readmore:hover, #hero-section .more-link .readmore:focus, .promotion-section .more-link .readmore:hover, .promotion-section .more-link .readmore:focus, #content #infinite-handle span button:hover, #content #infinite-handle span button:focus, #scrollup:hover, #scrollup:focus, .widget-area .catch-instagram-feed-gallery-widget-wrapper .button:hover, .widget-area .catch-instagram-feed-gallery-widget-wrapper .button:focus, .custom-header-media .wp-custom-header-video-button.wp-custom-header-video-pause, .custom-header-media .wp-custom-header-video-button:hover, .custom-header-media .wp-custom-header-video-button:focus, .widget_calendar tbody a:hover, .widget_calendar tbody a:focus, .woocommerce #respond input#submit:hover, .woocommerce #respond input#submit:focus, .woocommerce a.button:hover, .woocommerce a.button:focus, .woocommerce button.button:hover, .woocommerce button.button:focus, .woocommerce button.button.alt:hover, .woocommerce button.button.alt:focus, .woocommerce input.button:hover, .woocommerce input.button:focus, .woocommerce input.button.alt:hover, .woocommerce input.button.alt:focus, .woocommerce .product-container .added, .woocommerce .product-container .wc-forward:hover, .woocommerce .product-container .wc-forward:focus, .demo_store .woocommerce-store-notice__dismiss-link:hover, .demo_store .woocommerce-store-notice__dismiss-link:focus, #gallery-section .entry-footer .edit-link a:hover, #gallery-section .entry-footer .edit-link a:focus, table.shop_table_responsive tr td.product-remove a:hover, table.shop_table_responsive tr td.product-remove a:focus, .audioman-mejs-container.mejs-container .mejs-controls .mejs-playpause-button.mejs-button button:hover, .audioman-mejs-container.mejs-container .mejs-controls .mejs-playpause-button.mejs-button button:focus {
+    background-image: linear-gradient(-180deg, #2e3532  0%, #27213c 100%);
+}
+
+
+
+a:focus, a:hover, #feature-slider-section .entry-title a:hover, #feature-slider-section .entry-title a:focus, .menu-toggle:hover, .menu-toggle:focus, .dropdown-toggle:hover, .dropdown-toggle:focus, .search-submit:hover, .search-submit:focus, .entry-meta a:hover, .entry-meta a:focus, .site-info a:hover, .site-info a:focus, #search-toggle, #share-toggle, .main-navigation ul :hover > a .main-navigation ul :hover > a, .main-navigation ul .focus > a, .main-navigation .current-menu-item > a, .main-navigation .current-menu-ancestor > a, .site-header-cart .cart-contents:hover, .site-header-cart .cart-contents:focus, .site-header-menu .social-navigation a:hover, .site-header-menu .social-navigation a:focus, .absolute-header .site-header-menu .social-navigation a:hover, .absolute-header .site-header-menu .social-navigation a:focus, .absolute-header .menu-toggle:hover, .absolute-header .menu-toggle:focus, .absolute-header .site-header-cart .cart-contents:hover, .absolute-header .site-header-cart .cart-contents:focus, .site-navigation .current-menu-item > a, .site-navigation .current-menu-ancestor > a, .navigation-classic.absolute-header .main-navigation ul ul :hover > a, .navigation-classic.absolute-header .main-navigation ul ul .focus > a, .post-navigation a:hover .nav-title, .post-navigation a:focus .nav-title, .section .section-title a:hover, .section .section-title a:focus, .section .entry-title a:hover, .section .entry-title a:focus, #testimonial-content-section .cycle-prev:hover, #testimonial-content-section .cycle-prev:focus, #testimonial-content-section .cycle-next:hover, #testimonial-content-section .cycle-next:focus, #events-section.has-background-image .entry-meta a:hover, #events-section.has-background-image .entry-meta a:hover, #events-section.has-background-image .entry-meta a:focus, #events-section.has-background-image .entry-meta a:focus, #events-section.has-foreground-image .entry-meta a:hover, #events-section.has-foreground-image .entry-meta a:hover, #events-section.has-foreground-image .entry-meta a:focus, #events-section.has-foreground-image .entry-meta a:focus, #events-section.has-background-image .entry-title a:hover, #events-section.has-background-image .entry-title a:hover, #events-section.has-background-image .entry-title a:focus, #events-section.has-background-image .entry-title a:focus, #events-section.has-foreground-image .entry-title a:hover, #events-section.has-foreground-image .entry-title a:hover, #events-section.has-foreground-image .entry-title a:focus, #events-section.has-foreground-image .entry-title a:focus, #portfolio-content-section .entry-title a:hover, #portfolio-content-section .entry-title a:focus, .team-content-wrapper .hentry-inner:hover .entry-title a, .team-content-wrapper .hentry-inner:focus .entry-title a, .audioman-mejs-container.mejs-container button:hover, .audioman-mejs-container.mejs-container button:focus, #top-playlist-section .audioman-mejs-container.mejs-container .mejs-controls .mejs-playpause-button.mejs-button button:hover, #top-playlist-section .audioman-mejs-container.mejs-container .mejs-controls .mejs-playpause-button.mejs-button button:focus, table.shop_table_responsive tr td a:hover, table.shop_table_responsive tr td a:focus, .product-container a.added_to_cart:hover, .product-container a.added_to_cart:focus, .single-product .product_meta a:hover, .single-product .product_meta a:focus, .single-product div.product .woocommerce-product-rating .woocommerce-review-link:hover, .single-product div.product .woocommerce-product-rating .woocommerce-review-link:focus, .woocommerce-info a:hover, .woocommerce-info a:focus, .woocommerce-tabs ul.tabs li a:hover, .woocommerce-tabs ul.tabs li a:focus, .variations .reset_variations:hover, .variations .reset_variations:focus {
+    color: #827b7b;
+}
+
+
+.navigation-classic .main-navigation ul :hover > a, .navigation-classic .main-navigation ul .focus > a {
+    color: #827b7b;
+}
+
+
+.header-media .wrapper, #feature-slider-section, .sidebar .widget, .section:nth-child(odd), input[type="date"], input[type="time"], input[type="datetime-local"], input[type="week"], input[type="month"], input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], input[type="tel"], input[type="number"], textarea, body .wp-playlist, .playlist-content-wrapper .entry-container, #top-playlist-section .audioman-mejs-container.mejs-container, #top-playlist-section .wp-playlist-tracks {
+    background-color: transparent;
+}
+
+
+
+input[type="date"], input[type="time"], input[type="datetime-local"], input[type="week"], input[type="month"], input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], input[type="tel"], input[type="number"], textarea, .widget .social-links-menu a, .image-navigation, .comment-navigation, .comments-area, .comment-list article, .comment-list .pingback, .comment-list .trackback, .no-comments, table, caption, th, td, #feature-slider-section .cycle-pager span, .site-content, .archive-post-wrap .post-wrapper, .widget_archive ul ul li, .woocommerce-shorting-wrapper, .woocommerce-tabs .panel, .woocommerce-tabs ul.tabs:after, .woocommerce-tabs ul.tabs li.active, .woocommerce-account .woocommerce-MyAccount-navigation, .woocommerce-account .woocommerce-MyAccount-navigation li{
+	border-color: #d3cece73;
+}
+
+
+.display-posts-listing{
+	text-align: center
+}
+.listing-item{
+	display: inline-block;
+	margin : 25px
+}
+
+@media (min-width: 1024px){
+	.listing-item{
+	display: inline-block;
+	margin : 25px
+}
+
+}
+
+
+
+@media (min-width: 600px){
+	.listing-item{
+	display: inline-block;
+	margin : 15px
+}
+
+}
