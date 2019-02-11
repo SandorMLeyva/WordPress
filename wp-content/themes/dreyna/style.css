@@ -20,7 +20,32 @@ button:hover, button:focus, .button:hover, .button:focus, input[type="button"]:h
     background-image: linear-gradient(-180deg, #2e3532  0%, #27213c 100%);
 }
 
+#other_services, #other_builds{
+	background-color: #373448;
+}
 
+#other_services:hover, #other_builds:hover{
+	background-color: #27213a;
+}
+
+.entry-breadcrumbs,.entry-meta, .nav-next{
+	display: none;
+}
+
+.comment-respond{
+	background-color: #27213c;
+}
+
+.title, .comment-reply-title, .comments-title, .comment-container, .page-title, .section-title, .entry-summary, .textwidget{
+	color: white
+}
+blockquote, .woocommerce-info, .woocommerce-message, .more-link .readmore, .woocommerce .product-container .button, #testimonial-content-section .entry-header:before, #testimonial-content-section .cycle-pager span.cycle-pager-active{
+	border-color: #1b3b6f;	
+}
+
+a{
+	color: white
+}
 
 a:focus, a:hover, #feature-slider-section .entry-title a:hover, #feature-slider-section .entry-title a:focus, .menu-toggle:hover, .menu-toggle:focus, .dropdown-toggle:hover, .dropdown-toggle:focus, .search-submit:hover, .search-submit:focus, .entry-meta a:hover, .entry-meta a:focus, .site-info a:hover, .site-info a:focus, #search-toggle, #share-toggle, .main-navigation ul :hover > a .main-navigation ul :hover > a, .main-navigation ul .focus > a, .main-navigation .current-menu-item > a, .main-navigation .current-menu-ancestor > a, .site-header-cart .cart-contents:hover, .site-header-cart .cart-contents:focus, .site-header-menu .social-navigation a:hover, .site-header-menu .social-navigation a:focus, .absolute-header .site-header-menu .social-navigation a:hover, .absolute-header .site-header-menu .social-navigation a:focus, .absolute-header .menu-toggle:hover, .absolute-header .menu-toggle:focus, .absolute-header .site-header-cart .cart-contents:hover, .absolute-header .site-header-cart .cart-contents:focus, .site-navigation .current-menu-item > a, .site-navigation .current-menu-ancestor > a, .navigation-classic.absolute-header .main-navigation ul ul :hover > a, .navigation-classic.absolute-header .main-navigation ul ul .focus > a, .post-navigation a:hover .nav-title, .post-navigation a:focus .nav-title, .section .section-title a:hover, .section .section-title a:focus, .section .entry-title a:hover, .section .entry-title a:focus, #testimonial-content-section .cycle-prev:hover, #testimonial-content-section .cycle-prev:focus, #testimonial-content-section .cycle-next:hover, #testimonial-content-section .cycle-next:focus, #events-section.has-background-image .entry-meta a:hover, #events-section.has-background-image .entry-meta a:hover, #events-section.has-background-image .entry-meta a:focus, #events-section.has-background-image .entry-meta a:focus, #events-section.has-foreground-image .entry-meta a:hover, #events-section.has-foreground-image .entry-meta a:hover, #events-section.has-foreground-image .entry-meta a:focus, #events-section.has-foreground-image .entry-meta a:focus, #events-section.has-background-image .entry-title a:hover, #events-section.has-background-image .entry-title a:hover, #events-section.has-background-image .entry-title a:focus, #events-section.has-background-image .entry-title a:focus, #events-section.has-foreground-image .entry-title a:hover, #events-section.has-foreground-image .entry-title a:hover, #events-section.has-foreground-image .entry-title a:focus, #events-section.has-foreground-image .entry-title a:focus, #portfolio-content-section .entry-title a:hover, #portfolio-content-section .entry-title a:focus, .team-content-wrapper .hentry-inner:hover .entry-title a, .team-content-wrapper .hentry-inner:focus .entry-title a, .audioman-mejs-container.mejs-container button:hover, .audioman-mejs-container.mejs-container button:focus, #top-playlist-section .audioman-mejs-container.mejs-container .mejs-controls .mejs-playpause-button.mejs-button button:hover, #top-playlist-section .audioman-mejs-container.mejs-container .mejs-controls .mejs-playpause-button.mejs-button button:focus, table.shop_table_responsive tr td a:hover, table.shop_table_responsive tr td a:focus, .product-container a.added_to_cart:hover, .product-container a.added_to_cart:focus, .single-product .product_meta a:hover, .single-product .product_meta a:focus, .single-product div.product .woocommerce-product-rating .woocommerce-review-link:hover, .single-product div.product .woocommerce-product-rating .woocommerce-review-link:focus, .woocommerce-info a:hover, .woocommerce-info a:focus, .woocommerce-tabs ul.tabs li a:hover, .woocommerce-tabs ul.tabs li a:focus, .variations .reset_variations:hover, .variations .reset_variations:focus {
     color: #827b7b;
@@ -51,6 +76,24 @@ input[type="date"], input[type="time"], input[type="datetime-local"], input[type
 	margin : 25px
 }
 
+.comment{
+	margin: 50px 10% 0% 10%;
+}
+
+.comment>div{
+    color: #7a7a7a;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 400;
+    text-align: center;
+    font-size: larger;
+}
+.comment>div>a{
+	pointer-events: none;
+	cursor: default;
+	text-decoration: none;
+}
+
+
 @media (min-width: 1024px){
 	.listing-item{
 	display: inline-block;
@@ -68,3 +111,4 @@ input[type="date"], input[type="time"], input[type="datetime-local"], input[type
 }
 
 }
+
