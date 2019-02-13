@@ -43,6 +43,11 @@ blockquote, .woocommerce-info, .woocommerce-message, .more-link .readmore, .wooc
 	border-color: #1b3b6f;	
 }
 
+
+.menu-item > a{
+	font-size: 18px
+}
+
 a{
 	color: white
 }
