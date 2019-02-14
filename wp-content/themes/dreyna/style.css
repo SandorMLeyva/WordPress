@@ -113,7 +113,16 @@ input[type="date"], input[type="time"], input[type="datetime-local"], input[type
 	.listing-item{
 	display: inline-block;
 	margin : 15px
-}
+	}
+	#wp-custom-header>img{
+		display: none;
+	}
+	#wp-custom-header{
+		background-image: url('/wp-content/uploads/2019/02/banner-dreyna-colo-casco-640x640.png');
+	}
 
 }
+
+
+
 
